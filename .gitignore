@@ -11,6 +11,8 @@
 raw-images/
 stitched-images/
 
+# docs/ is intentionally tracked (scaled README assets)
+
 # Python
 __pycache__/
 *.py[cod]
