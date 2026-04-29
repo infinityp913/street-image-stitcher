@@ -6,7 +6,7 @@ Upload Google Street View screenshots, order them left-to-right, and generate a 
 
 ## Example inputs
 
-Six sequential Street View screenshots of the same street:
+Six sequential Street View screenshots of the same street from this [location in Gokarna, Karnataka](https://www.google.com/maps/place/Gokarna,+Karnataka,+India/@14.5433576,74.3171415,3a,75y,197.84h,90t/data=!3m7!1e1!3m5!1s93eHonWgWsvp4uZwypkK_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3D93eHonWgWsvp4uZwypkK_Q%26yaw%3D197.843334834045!7i13312!8i6656!4m16!1m9!3m8!1s0x3bbe83d65b0a4c71:0xe9e09fd076bb41c0!2sGokarna,+Karnataka,+India!3b1!8m2!3d14.5478586!4d74.318841!10e5!16zL20vMGJtdnRn!3m5!1s0x3bbe83d65b0a4c71:0xe9e09fd076bb41c0!8m2!3d14.5478586!4d74.318841!16zL20vMGJtdnRn?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D), India taken in 2023:
 
 | | | |
 |---|---|---|
